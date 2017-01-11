@@ -1,30 +1,36 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+ Day 1: January 3, 2016 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Back at it again, after a short hiatus with FCC,picking up from last time, basic Javascript.Happy 2016!
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Had a brush through of jquery and javascript,going over a few code challenges.
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link to work:** [Javascript](https://www.freecodecamp.com/rayray1)
 
 
-### Day 1: June 27, Monday
+### Day 2: January 5, 2016
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Long day at work, but managed an hour on javascript challenges.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts**: Got abit stuck on javascript private objects, but managed to sail through.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link(s) to work**: [Javascript](https://www.freecodecamp.com/rayray1)
+
+
+### Day 3: January 9, 2016
+
+**Today's Progress**: After a short weekend back at again, still on Javascript.
+
+**Thoughts** Finishing up on object oriented Javascript learning more about arrays with reduce, map, filter and concat.
+
+**Link(s) to work**: [Javascript](https://www.freecodecamp.com/rayray1)
+
+
+### Day 4: January 10, 2016
+
+**Today's Progress**: Object oriented and functional programming JS done. Next stop Basic Algorithm Scripting
+
+**Thoughts** Had a brush through of previous challenges, and ready to tackle algorithm scripting challenges.
+
+**Link(s) to work**: [Javascript](https://www.freecodecamp.com/rayray1)
