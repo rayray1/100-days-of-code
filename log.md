@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
- Day 1: January 3, 2016 
+### Day 1: January 3, 2016
 
 **Today's Progress**: Back at it again, after a short hiatus with FCC,picking up from last time, basic Javascript.Happy 2016!
 
