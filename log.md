@@ -34,3 +34,12 @@
 **Thoughts** Had a brush through of previous challenges, and ready to tackle algorithm scripting challenges.
 
 **Link(s) to work**: [Javascript](https://www.freecodecamp.com/rayray1)
+
+
+### Day 5: January 12, 2016
+
+**Today's Progress**: Basic Algorithm Scripting
+
+**Thoughts** Early morning javascript coding, got a bit stuck on the challenges, but managed to sail through after several attempts.Need to work more on pseudocode and critical thinking.
+
+**Link(s) to work**: [Javascript](https://www.freecodecamp.com/rayray1)
