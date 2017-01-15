@@ -43,3 +43,12 @@
 **Thoughts** Early morning javascript coding, got a bit stuck on the challenges, but managed to sail through after several attempts.Need to work more on pseudocode and critical thinking.
 
 **Link(s) to work**: [Javascript](https://www.freecodecamp.com/rayray1)
+
+
+### Day 6: January 15, 2016
+
+**Today's Progress**: ReactJS: Part I
+
+**Thoughts** Took a detour to learn React JS for an upcoming project over at codecademy. Must say didn’t look hard as i thought it would. Enjoyed part 1 that covered intro and advanced JSX.
+
+**Link(s) to work**: [ReactJS:Part I](https://www.codecademy.com/learn/react-101)
