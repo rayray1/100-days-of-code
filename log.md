@@ -52,3 +52,12 @@
 **Thoughts** Took a detour to learn React JS for an upcoming project over at codecademy. Must say didn’t look hard as i thought it would. Enjoyed part 1 that covered intro and advanced JSX.
 
 **Link(s) to work**: [ReactJS:Part I](https://www.codecademy.com/learn/react-101)
+
+
+### Day 7: January 16, 2016
+
+**Today's Progress**: ReactJS: 
+
+**Thoughts** Monday! Deep dive into ReactJS, learning more about JSX, variable attributes and conditionals.Getting the hang of this.
+
+**Link(s) to work**: [ReactJS:Part I](https://www.codecademy.com/learn/react-101)
