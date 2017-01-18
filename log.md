@@ -67,6 +67,6 @@
 
 **Today's Progress**: Advanced JSX - ReactJS: 
 
-**Thoughts** Monday! Late night-early morning coding.Managed to finish advanced JSX, and quiz as well. Got to learn more about injecting conditionals, .map and keys in lists.Aced through the quiz as well.
+**Thoughts** Late night-early morning coding.Managed to finish advanced JSX, and quiz as well. Got to learn more about injecting conditionals, .map and keys in lists.Aced through the quiz as well.
 
 **Link(s) to work**: [ReactJS:Part I](https://www.codecademy.com/learn/react-101)
