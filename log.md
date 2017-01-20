@@ -70,3 +70,21 @@
 **Thoughts** Late night-early morning coding.Managed to finish advanced JSX, and quiz as well. Got to learn more about injecting conditionals, .map and keys in lists.Aced through the quiz as well.
 
 **Link(s) to work**: [ReactJS:Part I](https://www.codecademy.com/learn/react-101)
+
+
+### Day 9: January 18, 2016
+
+**Today's Progress**: React Components - ReactJS: 
+
+**Thoughts** Long day at work but managed to pull an hour and get started on react components.Got a bit confused with quite a number of new terms.Made it halfway through.
+
+**Link(s) to work**: [ReactJS:Part I](https://www.codecademy.com/learn/react-101)
+
+
+### Day 10: January 19, 2016
+
+**Today's Progress**: React Components - ReactJS: 
+
+**Thoughts** Another long day. Got into react components, backtracking on what was learnt on day 9.Got to undertsand better about react component classes and JSX elements and their arguments.So far so good!
+
+**Link(s) to work**: [ReactJS:Part I](https://www.codecademy.com/learn/react-101)
